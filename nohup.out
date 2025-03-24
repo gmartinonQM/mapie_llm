@@ -1,0 +1,167 @@
+Loading checkpoint shards:   0%|          | 0/30 [00:00<?, ?it/s]Loading checkpoint shards:   3%|▎         | 1/30 [00:02<01:22,  2.85s/it]Loading checkpoint shards:   7%|▋         | 2/30 [00:05<01:21,  2.92s/it]Loading checkpoint shards:  10%|█         | 3/30 [00:08<01:21,  3.02s/it]Loading checkpoint shards:  13%|█▎        | 4/30 [00:12<01:20,  3.10s/it]Loading checkpoint shards:  17%|█▋        | 5/30 [00:15<01:17,  3.10s/it]Loading checkpoint shards:  20%|██        | 6/30 [00:18<01:14,  3.09s/it]Loading checkpoint shards:  23%|██▎       | 7/30 [00:21<01:10,  3.08s/it]Loading checkpoint shards:  27%|██▋       | 8/30 [00:24<01:08,  3.13s/it]Loading checkpoint shards:  30%|███       | 9/30 [00:27<01:03,  3.04s/it]Loading checkpoint shards:  33%|███▎      | 10/30 [00:29<00:57,  2.87s/it]Loading checkpoint shards:  37%|███▋      | 11/30 [00:32<00:52,  2.76s/it]Loading checkpoint shards:  40%|████      | 12/30 [00:35<00:48,  2.69s/it]Loading checkpoint shards:  43%|████▎     | 13/30 [00:37<00:45,  2.70s/it]Loading checkpoint shards:  47%|████▋     | 14/30 [00:40<00:42,  2.66s/it]Loading checkpoint shards:  50%|█████     | 15/30 [00:42<00:38,  2.56s/it]Loading checkpoint shards:  53%|█████▎    | 16/30 [00:45<00:35,  2.54s/it]Loading checkpoint shards:  57%|█████▋    | 17/30 [00:47<00:31,  2.43s/it]Loading checkpoint shards:  60%|██████    | 18/30 [00:49<00:28,  2.39s/it]Loading checkpoint shards:  63%|██████▎   | 19/30 [00:51<00:25,  2.35s/it]Loading checkpoint shards:  67%|██████▋   | 20/30 [00:53<00:22,  2.27s/it]Loading checkpoint shards:  70%|███████   | 21/30 [00:56<00:19,  2.20s/it]Loading checkpoint shards:  73%|███████▎  | 22/30 [00:58<00:17,  2.16s/it]Loading checkpoint shards:  77%|███████▋  | 23/30 [01:00<00:14,  2.13s/it]Loading checkpoint shards:  80%|████████  | 24/30 [01:01<00:12,  2.01s/it]Loading checkpoint shards:  83%|████████▎ | 25/30 [01:03<00:09,  1.91s/it]Loading checkpoint shards:  87%|████████▋ | 26/30 [01:05<00:07,  1.92s/it]Loading checkpoint shards:  90%|█████████ | 27/30 [01:07<00:05,  1.91s/it]Loading checkpoint shards:  93%|█████████▎| 28/30 [01:09<00:03,  1.98s/it]Loading checkpoint shards:  97%|█████████▋| 29/30 [01:11<00:02,  2.11s/it]Loading checkpoint shards: 100%|██████████| 30/30 [01:12<00:00,  1.68s/it]Loading checkpoint shards: 100%|██████████| 30/30 [01:12<00:00,  2.42s/it]
+Some parameters are on the meta device because they were offloaded to the cpu.
+  0%|          | 0/2000 [00:00<?, ?it/s]  0%|          | 1/2000 [00:17<9:44:47, 17.55s/it]  0%|          | 2/2000 [00:35<10:01:04, 18.05s/it]  0%|          | 3/2000 [00:53<9:52:23, 17.80s/it]   0%|          | 4/2000 [01:11<9:57:59, 17.98s/it]  0%|          | 5/2000 [01:34<10:58:48, 19.81s/it]  0%|          | 6/2000 [01:54<11:00:39, 19.88s/it]  0%|          | 7/2000 [02:13<10:53:10, 19.66s/it]  0%|          | 8/2000 [02:32<10:44:59, 19.43s/it]  0%|          | 9/2000 [02:53<11:00:11, 19.90s/it]  0%|          | 10/2000 [03:11<10:35:25, 19.16s/it]  1%|          | 11/2000 [03:31<10:44:04, 19.43s/it]  1%|          | 12/2000 [03:51<10:53:19, 19.72s/it]  1%|          | 13/2000 [04:10<10:47:00, 19.54s/it]  1%|          | 14/2000 [04:28<10:24:14, 18.86s/it]  1%|          | 15/2000 [04:47<10:32:01, 19.10s/it]  1%|          | 16/2000 [05:08<10:48:53, 19.62s/it]  1%|          | 17/2000 [05:27<10:43:07, 19.46s/it]  1%|          | 18/2000 [05:46<10:30:43, 19.09s/it]  1%|          | 19/2000 [06:05<10:31:33, 19.13s/it]  1%|          | 20/2000 [06:26<10:53:45, 19.81s/it]  1%|          | 21/2000 [06:44<10:35:04, 19.25s/it]  1%|          | 22/2000 [07:03<10:27:33, 19.04s/it]  1%|          | 23/2000 [07:22<10:28:02, 19.06s/it]  1%|          | 24/2000 [07:42<10:42:26, 19.51s/it]  1%|▏         | 25/2000 [08:00<10:22:46, 18.92s/it]  1%|▏         | 26/2000 [08:19<10:25:07, 19.00s/it]  1%|▏         | 27/2000 [08:39<10:33:27, 19.26s/it]  1%|▏         | 28/2000 [08:59<10:39:47, 19.47s/it]  1%|▏         | 29/2000 [09:17<10:22:10, 18.94s/it]  2%|▏         | 30/2000 [09:36<10:23:25, 18.99s/it]  2%|▏         | 31/2000 [09:56<10:40:41, 19.52s/it]  2%|▏         | 32/2000 [10:16<10:45:28, 19.68s/it]  2%|▏         | 33/2000 [10:37<10:53:01, 19.92s/it]  2%|▏         | 34/2000 [11:01<11:32:42, 21.14s/it]  2%|▏         | 35/2000 [11:19<11:02:23, 20.23s/it]  2%|▏         | 36/2000 [11:38<10:52:07, 19.92s/it]  2%|▏         | 37/2000 [11:58<10:46:21, 19.76s/it]  2%|▏         | 38/2000 [12:18<10:53:37, 19.99s/it]  2%|▏         | 39/2000 [12:36<10:31:45, 19.33s/it]  2%|▏         | 40/2000 [12:56<10:34:58, 19.44s/it]  2%|▏         | 41/2000 [13:17<10:49:29, 19.89s/it]  2%|▏         | 42/2000 [13:36<10:41:10, 19.65s/it]  2%|▏         | 43/2000 [13:53<10:21:49, 19.06s/it]  2%|▏         | 44/2000 [14:13<10:24:03, 19.14s/it]  2%|▏         | 45/2000 [14:34<10:44:35, 19.78s/it]  2%|▏         | 46/2000 [14:53<10:37:56, 19.59s/it]  2%|▏         | 47/2000 [15:11<10:26:08, 19.24s/it]  2%|▏         | 48/2000 [15:31<10:29:44, 19.36s/it]  2%|▏         | 49/2000 [15:52<10:44:44, 19.83s/it]  2%|▎         | 50/2000 [16:10<10:25:18, 19.24s/it]  3%|▎         | 51/2000 [16:29<10:22:22, 19.16s/it]  3%|▎         | 52/2000 [16:48<10:20:47, 19.12s/it]  3%|▎         | 53/2000 [17:07<10:20:52, 19.13s/it]  3%|▎         | 54/2000 [17:26<10:19:11, 19.09s/it]  3%|▎         | 55/2000 [17:45<10:21:30, 19.17s/it]  3%|▎         | 56/2000 [18:05<10:26:16, 19.33s/it]  3%|▎         | 57/2000 [18:26<10:38:45, 19.72s/it]  3%|▎         | 58/2000 [18:43<10:16:08, 19.04s/it]  3%|▎         | 59/2000 [19:03<10:22:34, 19.25s/it]  3%|▎         | 60/2000 [19:24<10:41:28, 19.84s/it]  3%|▎         | 61/2000 [19:43<10:30:36, 19.51s/it]  3%|▎         | 62/2000 [20:01<10:16:54, 19.10s/it]  3%|▎         | 63/2000 [20:20<10:16:14, 19.09s/it]  3%|▎         | 64/2000 [20:41<10:36:52, 19.74s/it]  3%|▎         | 65/2000 [21:00<10:24:21, 19.36s/it]  3%|▎         | 66/2000 [21:18<10:10:06, 18.93s/it]  3%|▎         | 67/2000 [21:37<10:10:34, 18.95s/it]  3%|▎         | 68/2000 [21:57<10:25:32, 19.43s/it]  3%|▎         | 69/2000 [22:15<10:11:37, 19.00s/it]  4%|▎         | 70/2000 [22:34<10:08:42, 18.92s/it]  4%|▎         | 71/2000 [22:53<10:05:14, 18.83s/it]  4%|▎         | 72/2000 [23:13<10:17:32, 19.22s/it]  4%|▎         | 73/2000 [23:31<10:02:35, 18.76s/it]  4%|▎         | 74/2000 [23:49<10:04:01, 18.82s/it]  4%|▍         | 75/2000 [24:09<10:13:26, 19.12s/it]  4%|▍         | 76/2000 [24:29<10:21:02, 19.37s/it]  4%|▍         | 77/2000 [24:47<10:00:56, 18.75s/it]  4%|▍         | 78/2000 [25:06<10:03:24, 18.84s/it]  4%|▍         | 79/2000 [25:25<10:11:35, 19.10s/it]  4%|▍         | 80/2000 [25:44<10:12:11, 19.13s/it]  4%|▍         | 81/2000 [26:02<9:58:35, 18.72s/it]   4%|▍         | 82/2000 [26:22<10:05:51, 18.95s/it]  4%|▍         | 83/2000 [26:42<10:21:13, 19.44s/it]  4%|▍         | 84/2000 [27:01<10:15:35, 19.28s/it]  4%|▍         | 85/2000 [27:19<10:04:58, 18.95s/it]  4%|▍         | 86/2000 [27:38<10:04:16, 18.94s/it]  4%|▍         | 87/2000 [27:59<10:18:19, 19.39s/it]  4%|▍         | 88/2000 [28:17<10:10:55, 19.17s/it]  4%|▍         | 89/2000 [28:36<10:04:20, 18.97s/it]  4%|▍         | 90/2000 [28:55<10:03:31, 18.96s/it]  5%|▍         | 91/2000 [29:16<10:22:00, 19.55s/it]  5%|▍         | 92/2000 [29:34<10:08:26, 19.13s/it]  5%|▍         | 93/2000 [29:53<10:11:35, 19.24s/it]  5%|▍         | 94/2000 [30:13<10:12:24, 19.28s/it]  5%|▍         | 95/2000 [30:33<10:22:08, 19.60s/it]  5%|▍         | 96/2000 [30:51<10:01:37, 18.96s/it]  5%|▍         | 97/2000 [31:10<10:05:46, 19.10s/it]  5%|▍         | 98/2000 [31:31<10:19:57, 19.56s/it]  5%|▍         | 99/2000 [31:50<10:20:04, 19.57s/it]  5%|▌         | 100/2000 [32:08<9:57:35, 18.87s/it]  5%|▌         | 101/2000 [32:27<10:05:18, 19.13s/it]  5%|▌         | 102/2000 [32:48<10:22:41, 19.68s/it]  5%|▌         | 103/2000 [33:07<10:13:59, 19.42s/it]  5%|▌         | 104/2000 [33:25<9:55:28, 18.84s/it]   5%|▌         | 105/2000 [33:43<9:52:12, 18.75s/it]  5%|▌         | 106/2000 [34:04<10:08:32, 19.28s/it]  5%|▌         | 107/2000 [34:22<10:02:23, 19.09s/it]  5%|▌         | 108/2000 [34:42<10:04:30, 19.17s/it]  5%|▌         | 109/2000 [35:00<10:00:22, 19.05s/it]  6%|▌         | 110/2000 [35:21<10:10:52, 19.39s/it]  6%|▌         | 111/2000 [35:40<10:07:28, 19.30s/it]  6%|▌         | 112/2000 [35:59<10:06:28, 19.27s/it]  6%|▌         | 113/2000 [36:19<10:15:10, 19.56s/it]  6%|▌         | 114/2000 [36:40<10:29:50, 20.04s/it]  6%|▌         | 115/2000 [36:59<10:13:37, 19.53s/it]  6%|▌         | 116/2000 [37:19<10:18:52, 19.71s/it]  6%|▌         | 117/2000 [37:40<10:35:09, 20.24s/it]  6%|▌         | 118/2000 [37:59<10:22:22, 19.84s/it]  6%|▌         | 119/2000 [38:17<10:06:12, 19.34s/it]  6%|▌         | 120/2000 [38:37<10:05:18, 19.32s/it]  6%|▌         | 121/2000 [38:57<10:17:10, 19.71s/it]  6%|▌         | 122/2000 [39:16<10:10:09, 19.49s/it]  6%|▌         | 123/2000 [39:35<10:03:07, 19.28s/it]  6%|▌         | 124/2000 [39:54<10:02:22, 19.27s/it]  6%|▋         | 125/2000 [40:15<10:13:34, 19.63s/it]  6%|▋         | 126/2000 [40:33<9:58:16, 19.15s/it]   6%|▋         | 127/2000 [40:52<10:02:07, 19.29s/it]  6%|▋         | 128/2000 [41:11<9:56:50, 19.13s/it]   6%|▋         | 129/2000 [41:30<9:55:58, 19.11s/it]  6%|▋         | 130/2000 [41:48<9:48:17, 18.88s/it]  7%|▋         | 131/2000 [42:08<9:50:42, 18.96s/it]  7%|▋         | 132/2000 [42:27<9:52:09, 19.02s/it]  7%|▋         | 133/2000 [42:47<10:06:36, 19.49s/it]  7%|▋         | 134/2000 [43:05<9:50:38, 18.99s/it]   7%|▋         | 135/2000 [43:24<9:50:33, 19.00s/it]  7%|▋         | 136/2000 [43:43<9:50:23, 19.00s/it]  7%|▋         | 137/2000 [44:03<9:54:36, 19.15s/it]  7%|▋         | 138/2000 [44:20<9:34:47, 18.52s/it]  7%|▋         | 139/2000 [44:39<9:39:03, 18.67s/it]  7%|▋         | 140/2000 [44:58<9:45:55, 18.90s/it]  7%|▋         | 141/2000 [45:18<9:50:09, 19.05s/it]  7%|▋         | 142/2000 [45:35<9:35:25, 18.58s/it]  7%|▋         | 143/2000 [45:55<9:44:10, 18.87s/it]  7%|▋         | 144/2000 [46:15<10:01:27, 19.44s/it]  7%|▋         | 145/2000 [46:34<9:57:19, 19.32s/it]   7%|▋         | 146/2000 [46:53<9:47:33, 19.02s/it]  7%|▋         | 147/2000 [47:12<9:52:55, 19.20s/it]  7%|▋         | 148/2000 [47:34<10:11:09, 19.80s/it]  7%|▋         | 149/2000 [47:52<9:57:53, 19.38s/it]   8%|▊         | 150/2000 [48:10<9:49:03, 19.10s/it]  8%|▊         | 151/2000 [48:30<9:50:54, 19.18s/it]  8%|▊         | 152/2000 [48:50<10:02:34, 19.56s/it]  8%|▊         | 153/2000 [49:08<9:44:13, 18.98s/it]   8%|▊         | 154/2000 [49:27<9:41:55, 18.91s/it]  8%|▊         | 155/2000 [49:45<9:39:33, 18.85s/it]  8%|▊         | 156/2000 [50:05<9:42:37, 18.96s/it]  8%|▊         | 157/2000 [50:23<9:41:42, 18.94s/it]  8%|▊         | 158/2000 [50:43<9:43:15, 19.00s/it]  8%|▊         | 159/2000 [51:02<9:45:12, 19.07s/it]  8%|▊         | 160/2000 [51:23<10:05:06, 19.73s/it]  8%|▊         | 161/2000 [51:41<9:52:36, 19.33s/it]   8%|▊         | 162/2000 [52:01<9:56:40, 19.48s/it]  8%|▊         | 163/2000 [52:21<10:02:18, 19.67s/it]  8%|▊         | 164/2000 [52:41<10:04:07, 19.74s/it]  8%|▊         | 165/2000 [52:59<9:45:01, 19.13s/it]   8%|▊         | 166/2000 [53:19<9:48:14, 19.24s/it]  8%|▊         | 167/2000 [53:39<10:03:23, 19.75s/it]  8%|▊         | 168/2000 [53:59<10:02:44, 19.74s/it]  8%|▊         | 169/2000 [54:17<9:46:25, 19.22s/it]   8%|▊         | 170/2000 [54:37<9:48:15, 19.29s/it]  9%|▊         | 171/2000 [54:58<10:06:36, 19.90s/it]  9%|▊         | 172/2000 [55:16<9:53:21, 19.48s/it]   9%|▊         | 173/2000 [55:36<9:49:21, 19.36s/it]  9%|▊         | 174/2000 [55:55<9:46:45, 19.28s/it]  9%|▉         | 175/2000 [56:16<10:01:00, 19.76s/it]  9%|▉         | 176/2000 [56:33<9:41:51, 19.14s/it]   9%|▉         | 177/2000 [56:53<9:46:57, 19.32s/it]  9%|▉         | 178/2000 [57:13<9:56:49, 19.65s/it]  9%|▉         | 179/2000 [57:33<9:55:12, 19.61s/it]  9%|▉         | 180/2000 [57:50<9:32:09, 18.86s/it]  9%|▉         | 181/2000 [58:09<9:36:47, 19.03s/it]  9%|▉         | 182/2000 [58:30<9:49:40, 19.46s/it]  9%|▉         | 183/2000 [58:49<9:44:49, 19.31s/it]  9%|▉         | 184/2000 [59:07<9:32:57, 18.93s/it]  9%|▉         | 185/2000 [59:26<9:37:29, 19.09s/it]  9%|▉         | 186/2000 [59:47<9:52:46, 19.61s/it]  9%|▉         | 187/2000 [1:00:06<9:45:29, 19.38s/it]  9%|▉         | 188/2000 [1:00:25<9:42:07, 19.28s/it]  9%|▉         | 189/2000 [1:00:44<9:42:29, 19.30s/it] 10%|▉         | 190/2000 [1:01:06<10:02:18, 19.97s/it] 10%|▉         | 191/2000 [1:01:24<9:46:47, 19.46s/it]  10%|▉         | 192/2000 [1:01:43<9:44:07, 19.38s/it] 10%|▉         | 193/2000 [1:02:03<9:41:47, 19.32s/it] 10%|▉         | 194/2000 [1:02:23<9:49:39, 19.59s/it] 10%|▉         | 195/2000 [1:02:40<9:31:17, 18.99s/it] 10%|▉         | 196/2000 [1:03:00<9:33:10, 19.06s/it] 10%|▉         | 197/2000 [1:03:19<9:39:53, 19.30s/it] 10%|▉         | 198/2000 [1:03:39<9:41:14, 19.35s/it] 10%|▉         | 199/2000 [1:03:57<9:24:50, 18.82s/it] 10%|█         | 200/2000 [1:04:16<9:28:39, 18.96s/it] 10%|█         | 201/2000 [1:04:36<9:42:36, 19.43s/it] 10%|█         | 202/2000 [1:04:55<9:31:44, 19.08s/it] 10%|█         | 203/2000 [1:05:12<9:20:08, 18.70s/it] 10%|█         | 204/2000 [1:05:32<9:27:17, 18.95s/it] 10%|█         | 205/2000 [1:05:54<9:50:28, 19.74s/it] 10%|█         | 206/2000 [1:06:12<9:39:19, 19.38s/it] 10%|█         | 207/2000 [1:06:30<9:29:12, 19.05s/it] 10%|█         | 208/2000 [1:06:49<9:27:38, 19.01s/it] 10%|█         | 209/2000 [1:07:10<9:40:55, 19.46s/it] 10%|█         | 210/2000 [1:07:28<9:30:17, 19.12s/it] 11%|█         | 211/2000 [1:07:47<9:27:32, 19.03s/it] 11%|█         | 212/2000 [1:08:06<9:27:04, 19.03s/it] 11%|█         | 213/2000 [1:08:26<9:33:19, 19.25s/it] 11%|█         | 214/2000 [1:08:43<9:16:23, 18.69s/it] 11%|█         | 214/2000 [1:08:51<9:34:42, 19.31s/it]
+Traceback (most recent call last):
+  File "/home/vblot/mapie_llm/run_predictions.py", line 142, in <module>
+    pred_proba.append(classifier.predict_proba(X[i:i+batch_size]))
+  File "/home/vblot/mapie_llm/run_predictions.py", line 118, in predict_proba
+    outputs = self.model(**inputs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/accelerate/hooks.py", line 176, in new_forward
+    output = module._old_forward(*args, **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/transformers/utils/deprecation.py", line 172, in wrapped_func
+    return func(*args, **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/transformers/models/llama/modeling_llama.py", line 853, in forward
+    outputs = self.model(
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/transformers/models/llama/modeling_llama.py", line 601, in forward
+    layer_outputs = decoder_layer(
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/accelerate/hooks.py", line 176, in new_forward
+    output = module._old_forward(*args, **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/transformers/models/llama/modeling_llama.py", line 340, in forward
+    hidden_states = self.input_layernorm(hidden_states)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/accelerate/hooks.py", line 171, in new_forward
+    args, kwargs = module._hf_hook.pre_forward(module, *args, **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/accelerate/hooks.py", line 361, in pre_forward
+    set_module_tensor_to_device(
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/accelerate/utils/modeling.py", line 339, in set_module_tensor_to_device
+    new_value = value.to(device)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/utils/_http.py", line 409, in hf_raise_for_status
+    response.raise_for_status()
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/requests/models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://huggingface.co/meta-llama/Llama-2-7b-hf/resolve/main/config.json
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/transformers/utils/hub.py", line 424, in cached_files
+    hf_hub_download(
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 862, in hf_hub_download
+    return _hf_hub_download_to_cache_dir(
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 969, in _hf_hub_download_to_cache_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 1486, in _raise_on_head_call_error
+    raise head_call_error
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 1376, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 1296, in get_hf_file_metadata
+    r = _request_wrapper(
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 280, in _request_wrapper
+    response = _request_wrapper(
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 304, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/utils/_http.py", line 426, in hf_raise_for_status
+    raise _format(GatedRepoError, message, response) from e
+huggingface_hub.errors.GatedRepoError: 403 Client Error. (Request ID: Root=1-67e137c6-2df384b017c692b330a8f3e3;7794c74b-79ee-40b2-80af-28c647215cb0)
+
+Cannot access gated repo for url https://huggingface.co/meta-llama/Llama-2-7b-hf/resolve/main/config.json.
+Access to model meta-llama/Llama-2-7b-hf is restricted and you are not in the authorized list. Visit https://huggingface.co/meta-llama/Llama-2-7b-hf to ask for access.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/vblot/mapie_llm/run_predictions.py", line 48, in <module>
+    tok, mo = load_model("meta-llama/Llama-2-7b-hf")
+  File "/home/vblot/mapie_llm/run_predictions.py", line 19, in load_model
+    tokenizer = AutoTokenizer.from_pretrained(model)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/transformers/models/auto/tokenization_auto.py", line 930, in from_pretrained
+    config = AutoConfig.from_pretrained(
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/transformers/models/auto/configuration_auto.py", line 1096, in from_pretrained
+    config_dict, unused_kwargs = PretrainedConfig.get_config_dict(pretrained_model_name_or_path, **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/transformers/configuration_utils.py", line 594, in get_config_dict
+    config_dict, kwargs = cls._get_config_dict(pretrained_model_name_or_path, **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/transformers/configuration_utils.py", line 653, in _get_config_dict
+    resolved_config_file = cached_file(
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/transformers/utils/hub.py", line 266, in cached_file
+    file = cached_files(path_or_repo_id=path_or_repo_id, filenames=[filename], **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/transformers/utils/hub.py", line 481, in cached_files
+    raise EnvironmentError(
+OSError: You are trying to access a gated repo.
+Make sure to have access to it at https://huggingface.co/meta-llama/Llama-2-7b-hf.
+403 Client Error. (Request ID: Root=1-67e137c6-2df384b017c692b330a8f3e3;7794c74b-79ee-40b2-80af-28c647215cb0)
+
+Cannot access gated repo for url https://huggingface.co/meta-llama/Llama-2-7b-hf/resolve/main/config.json.
+Access to model meta-llama/Llama-2-7b-hf is restricted and you are not in the authorized list. Visit https://huggingface.co/meta-llama/Llama-2-7b-hf to ask for access.
+Traceback (most recent call last):
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/utils/_http.py", line 409, in hf_raise_for_status
+    response.raise_for_status()
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/requests/models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://huggingface.co/meta-llama/Llama-2-7b-hf/resolve/main/config.json
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/transformers/utils/hub.py", line 424, in cached_files
+    hf_hub_download(
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 862, in hf_hub_download
+    return _hf_hub_download_to_cache_dir(
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 969, in _hf_hub_download_to_cache_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 1486, in _raise_on_head_call_error
+    raise head_call_error
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 1376, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 1296, in get_hf_file_metadata
+    r = _request_wrapper(
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 280, in _request_wrapper
+    response = _request_wrapper(
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 304, in _request_wrapper
+    hf_raise_for_status(response)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/huggingface_hub/utils/_http.py", line 426, in hf_raise_for_status
+    raise _format(GatedRepoError, message, response) from e
+huggingface_hub.errors.GatedRepoError: 403 Client Error. (Request ID: Root=1-67e137cb-456d0f6868bc552d78fac86e;2330bf58-99fd-4634-9a61-1219579b5d81)
+
+Cannot access gated repo for url https://huggingface.co/meta-llama/Llama-2-7b-hf/resolve/main/config.json.
+Access to model meta-llama/Llama-2-7b-hf is restricted and you are not in the authorized list. Visit https://huggingface.co/meta-llama/Llama-2-7b-hf to ask for access.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/vblot/mapie_llm/run_predictions.py", line 48, in <module>
+    tok, mo = load_model("meta-llama/Llama-2-7b-hf")
+  File "/home/vblot/mapie_llm/run_predictions.py", line 19, in load_model
+    tokenizer = AutoTokenizer.from_pretrained(model)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/transformers/models/auto/tokenization_auto.py", line 930, in from_pretrained
+    config = AutoConfig.from_pretrained(
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/transformers/models/auto/configuration_auto.py", line 1096, in from_pretrained
+    config_dict, unused_kwargs = PretrainedConfig.get_config_dict(pretrained_model_name_or_path, **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/transformers/configuration_utils.py", line 594, in get_config_dict
+    config_dict, kwargs = cls._get_config_dict(pretrained_model_name_or_path, **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/transformers/configuration_utils.py", line 653, in _get_config_dict
+    resolved_config_file = cached_file(
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/transformers/utils/hub.py", line 266, in cached_file
+    file = cached_files(path_or_repo_id=path_or_repo_id, filenames=[filename], **kwargs)
+  File "/home/vblot/.cache/pypoetry/virtualenvs/mapie-llm-oz4A_AfW-py3.10/lib/python3.10/site-packages/transformers/utils/hub.py", line 481, in cached_files
+    raise EnvironmentError(
+OSError: You are trying to access a gated repo.
+Make sure to have access to it at https://huggingface.co/meta-llama/Llama-2-7b-hf.
+403 Client Error. (Request ID: Root=1-67e137cb-456d0f6868bc552d78fac86e;2330bf58-99fd-4634-9a61-1219579b5d81)
+
+Cannot access gated repo for url https://huggingface.co/meta-llama/Llama-2-7b-hf/resolve/main/config.json.
+Access to model meta-llama/Llama-2-7b-hf is restricted and you are not in the authorized list. Visit https://huggingface.co/meta-llama/Llama-2-7b-hf to ask for access.
