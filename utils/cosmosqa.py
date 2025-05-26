@@ -1,6 +1,7 @@
-from typing import Dict
+from typing import Dict, List, Tuple
 
 import numpy as np
+from numpy.typing import NDArray
 from sklearn.preprocessing import LabelEncoder
 
 
@@ -42,11 +43,11 @@ class TransformCosmosQA:
 
     few_shot_examples_ids = [1, 3, 5, 7, 9]
 
-    def __init__(self, data):
+    def __init__(self, data: List[Dict[str, str]]) -> None:
         self.data = data
         self.label_encoder = LabelEncoder()
 
-    def _get_fewshot_examples(self):
+    def _get_fewshot_examples(self) -> List[Dict[str, str]]:
         """
         Retrieve the few-shot examples from the data.
         """
@@ -59,7 +60,7 @@ class TransformCosmosQA:
     @staticmethod
     def _format_example(
         example: Dict[str, str], prompt: str, with_answer: bool = False
-    ):
+    ) -> str:
         """
         Format a question-answer pair. The prompt contains the context,
         question, and choices. When this function is called with
@@ -80,20 +81,24 @@ class TransformCosmosQA:
             prompt += " " + example["answer"] + "\n"
         return prompt
 
-    def _format_prompt(self, example, fewshot_examples):
+    def _format_prompt(
+        self, example: Dict[str, str], fewshot_examples: List[Dict[str, str]]
+    ) -> str:
         """
         Format the prompt for a question-answer pair. The prompt contains the
-        context, question, and choices.
+        context, question, and choices, as well as the few-shot examples
+        at the beginning. The few-shot examples are formatted using the
+        _format_example function. The answer is not included in the prompt.
         """
-        prompt = ""
+        prompt = self.base_prompt
         for fewshot_example in fewshot_examples:
             prompt = self._format_example(
                 fewshot_example, prompt, with_answer=True
             )
-        prompt = self._format_example(example, prompt)
+        prompt = self._format_example(example, prompt, with_answer=False)
         return prompt
 
-    def _fit_label_encoder(self):
+    def _fit_label_encoder(self) -> None:
         """
         Fit a label encoder to the possible answers.
         """
@@ -104,7 +109,7 @@ class TransformCosmosQA:
         possible_answers = sorted(list(set(possible_answers)))
         self.label_encoder.fit(possible_answers)
 
-    def transform_data(self):
+    def transform_data(self) -> Tuple[NDArray, NDArray]:
         """
         Transform the data into a format that can be used for prompt-based
         learning. The transformation is done according to the following steps:
