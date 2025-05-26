@@ -35,11 +35,11 @@ class TransformCosmosQA:
     """
 
     base_prompt = """
-    The following is a multiple-choice question about reading comprehension.
-    You should answer the question based on the given context and you can use
-    commonsense reasoning when necessary. Please reason step-by-step and select
-    the correct answer. You only need to output the option.\n\n
-    """
+The following is a multiple-choice question about reading comprehension.
+You should answer the question based on the given context and you can use
+commonsense reasoning when necessary. Please reason step-by-step and select
+the correct answer. You only need to output the option.\n\n
+"""
 
     few_shot_examples_ids = [1, 3, 5, 7, 9]
 
