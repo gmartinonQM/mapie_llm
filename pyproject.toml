@@ -11,7 +11,6 @@ readme = "README.md"
 
 requires-python = ">=3.13"
 dependencies = [
-    "ipywidgets>=8.1.7",
     "mapie>=1.0.1",
     "matplotlib>=3.10.3",
     "notebook>=7.4.2",

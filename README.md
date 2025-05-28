@@ -26,7 +26,7 @@ This notebook demonstrates how to use MAPIE for conformal predictions with a Lar
    - Define an `LLMClassifier` wrapper to make predictions in a structured format.
 
 4. **Conformal Prediction with MAPIE**
-   - Use `SplitConformalClassifier` to calibrate the model on a subset of the data.
+   - Use `SplitConformalClassifier` to conformalize the model on a subset of the data.
    - Generate prediction sets with a 95% confidence level.
 
 5. **Evaluation & Visualization**
@@ -36,7 +36,7 @@ This notebook demonstrates how to use MAPIE for conformal predictions with a Lar
 
 ## Results
 
-- The LLM achieves an accuracy of approximately **X%** on the test set.
+- The LLM achieves an accuracy of approximately **86%** on the test set.
 - Prediction sets provide calibrated uncertainty estimates, enhancing reliability in decision-making.
 - The more uncertain the model is (i.e., the larger the prediction sets), the lower the accuracy.
 
