@@ -1,6 +1,6 @@
 # MAPIE and Conformal Predictions with a LLM
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FaustinPulveric/mapie_llm/blob/main/MAPIE_for_cosmosqa_correction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FaustinPulveric/mapie_llm/blob/main/MAPIE_for_cosmosqa.ipynb)
 
 ## Overview
 
